@@ -14,7 +14,9 @@ console.log(!(numero1 < 5)) // true
 
 // Exemplo com variáveis booleanas
 let isAdult = true
-let hasID = false
+let hasID = true
 
 // AND
 console.log(isAdult && hasID) // true
+
+console.log(numero1 != numero2);

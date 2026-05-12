@@ -18,6 +18,7 @@ console.log("Exponenciação: " + (numero1 ** numero2)) // 100000
 
 // Exemplo: Verificar se um número é par ou ímpar usando o operador módulo
 //Sintaxe: dividendo % divisor
+
 /*
 let num = 7;
 if (num % 2 === 0) {
@@ -25,4 +26,15 @@ if (num % 2 === 0) {
 } else {
     console.log("Ímpar");
 }
+*/
+
+
+
+// operadores ternarios
+// condição ? valor_se_verdadeiro : valor_se_falso
+/*
+
+let idade = 18;
+let resultado = (idade >= 18) ? "Maior de idade" : "Menor de idade";
+console.log(resultado); // "Maior de idade"
 */

@@ -1,5 +1,6 @@
 /* Vai ao supermecado, se tiver ovos, compre leite.*/
-let nivelDeFome = 3
+/*
+let nivelDeFome = 2
 
 
 
@@ -16,10 +17,10 @@ if(nivelDeFome === 1){
 
 
 }
+*/
 
 
-
-
+/*
 
 let nota1 = 3
 let nota2 = 4
@@ -48,10 +49,14 @@ else{ // 3. Se não for nenhuma das de cima (automaticamente menor que 4)
 
 //Maior ou Igual (>=)
 //Pense em limites mínimos. Você precisa de pelo menos aquilo para passar.
-let idade = 18;
+
+/*
+let idade = 17;
 if (idade >= 18) {
     console.log("Pode entrar na festa!"); // 18 entra, 19 entra...
 }
+*/
+
 
 //Menor ou Igual (<=)
 //Pense em limites máximos. Você não pode passar daquilo.

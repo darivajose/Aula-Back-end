@@ -1,0 +1,16 @@
+Funções em JavaScript
+
+Funções em JavaScript são blocos de código reutilizáveis projetados para 
+realizar tarefas específicas, definidos pela palavra-chave function. 
+Elas recebem parâmetros (dados de entrada), processam instruções
+ e podem retornar resultados. 
+ A estrutura básica inclui 
+ 
+ 
+ 
+
+function nomeDaFuncao(parametros) {
+    // corpo da função
+    return resultado; // opcional
+}
+nomeDaFuncao()

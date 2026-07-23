@@ -1,3 +1,25 @@
+function torrar(){
+    console.log("torrando pão")
+}
+
+ 
+function injetarPao(){
+    console.log("preparando para injetar o pão")
+    console.log("finalizado")
+}
+torrar()
+injetarPao()
+
+// dois escopo dentro< um funçao
+function getData(){
+    console.log("pegando dads do usuario ");
+    if(1 < 3) {
+        console.log("numero encotrado")
+    }
+}
+getData()
+
+
 /*
 function dobra(vetor){
     let resultados = [];
@@ -9,18 +31,25 @@ function dobra(vetor){
 */
 
 
-/*
-function soma(numero1, numero2) {
-    return numero1 + numero2;
+
+// function soma(numero1, numero2) {
+//     return numero1 + numero2;
 
     
-}
-console.log(soma(2 + 2))
+// }
+// console.log(soma(2 + 2))
 
-*/
+
+
+
+
+
+
+
+
 // GERADOR DE CPF
 
-function gerarCPF() {
+/* function gerarCPF() {
     // Gera 9 dígitos aleatórios
     let n = [];
     for (let i = 0; i < 9; i++) {
@@ -56,3 +85,4 @@ function decimalParaBinario(n) {
 }
 
 console.log(decimalParaBinario(25)); // "11001"
+ */
